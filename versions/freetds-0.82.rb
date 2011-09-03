@@ -1,7 +1,7 @@
 require 'formula'
 
 class Freetds < Formula
-  url 'http://ibiblio.org/pub/Linux/ALPHA/freetds/stable/freetds-0.82.tar.gz'
+  url 'http://ibiblio.org/pub/Linux/ALPHA/freetds/old/0.82/freetds-0.82.tar.gz'
   homepage 'http://www.freetds.org/'
   md5 '3df6b2e83fd420e90f1becbd1162990a'
 
