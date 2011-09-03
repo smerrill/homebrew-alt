@@ -29,7 +29,7 @@ class Php < Formula
     depends_on 'postgresql'
   end
   if ARGV.include? '--with-mssql'
-    depends_on 'freetds'
+    depends_on 'freetds082'
   end
   if ARGV.include? '--with-intl'
     depends_on 'icu4c'
